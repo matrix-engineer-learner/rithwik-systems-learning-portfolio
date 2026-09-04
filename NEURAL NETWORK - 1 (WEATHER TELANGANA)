@@ -828,7 +828,8 @@
           ]
         },
         "id": "ulDCDpAhpQHW",
-        "outputId": "870acc14-2cf2-4517-af9f-d5a607e1ce48"
+        "outputId": "870acc14-2cf2-4517-af9f-d5a607e1ce48",
+        "cellView": "form"
       },
       "execution_count": 1,
       "outputs": [
