@@ -1,4 +1,3 @@
-# rithwik-systems-learning-portfolio
 # ⛈️ Systems Engineering & Experimental Data Sandbox
 
 This repository houses a collection of personal code models, layout blueprints, and interactive data engines built out of pure technical curiosity. 
@@ -17,13 +16,18 @@ Instead of focusing on memorizing standard syntax rules or debugging raw code st
 
 ---
 
-### 📁 Index of Projects
+### 📁 Repository Structure & Systems Index
 
-#### 🛠️ Code Sandboxes (.ipynb files)
-*   **NEURAL NETWORK - 1 (WEATHER):** An atmospheric tracking cell that scrapes live meteorological data tables to process localized weather metrics and calculate probabilities.
+#### 🧠 [Neural Networks Track](./neural-networks)
+*   **NEURAL NETWORK - 1 (WEATHER TELANGANA):** An atmospheric tracking cell that scrapes live meteorological data tables to process localized weather metrics and calculate probabilities.
 *   **Interactive_Tech_Trend_Portal:** A split-pane dashboard that ingests real-time technology API feeds and maps them onto a moving particle web.
-*   **AERO_Router.ipynb & FLUX_Being.ipynb:** Experimental logic structures built to test automated routing paths.
+*   **AERO_Router & FLUX_Being:** Experimental logic structures built to test automated routing paths.
 
-#### 📊 System Blueprints (.drawio.png files)
+#### 📊 [System Blueprints Grid](./system-blueprints)
 *   **PROJECT 1 to 4 Blueprints:** Multi-stage workflow architecture maps tracking how data streams and routing rules flow through digital components.
 *   **BIG PROJECT 2 & 3:** Advanced structural pipeline maps showing multi-stage processing grids.
+
+#### 🧪 [Experimental Sandboxes](./experimental-sandboxes)
+*   **PROJECT-1 to PROJECT-5 Sandboxes:** A collection of version updates tracking incremental build adjustments, testing values, and simulation templates.
+
+
